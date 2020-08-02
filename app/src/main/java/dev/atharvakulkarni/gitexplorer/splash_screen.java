@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class splash_screen extends AppCompatActivity
 {
-    int DELAY_TIME_IN_MILIS = 3000;
+    int DELAY_TIME_IN_MILIS = 1000;
     TextView textView;
 
     @Override

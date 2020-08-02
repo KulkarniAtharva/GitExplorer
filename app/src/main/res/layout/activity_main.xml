@@ -61,22 +61,10 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/text_i_want_to">
 
-            <AutoCompleteTextView
-                android:id="@+id/input_first_field"
+            <Spinner
+                android:id="@+id/spinner1"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@null"
-                android:completionThreshold="1"
-                android:drawableEnd="@drawable/arrow_downwards"
-                android:drawableTint="#ACACAC"
-                android:fontFamily="@font/calibri"
-                android:hint="..."
-                android:padding="12dp"
-                android:inputType="textNoSuggestions"
-                android:textColor="@color/colorPrimary"
-                android:textSize="14sp"
-                android:textStyle="bold"
-                tools:text="add" />
+                android:layout_height="match_parent" />
 
         </androidx.cardview.widget.CardView>
 
@@ -92,22 +80,10 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/card_view_first_field">
 
-            <AutoCompleteTextView
-                android:id="@+id/input_second_field"
+            <Spinner
+                android:id="@+id/spinner2"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@null"
-                android:completionThreshold="1"
-                android:drawableEnd="@drawable/arrow_downwards"
-                android:drawableTint="#ACACAC"
-                android:fontFamily="@font/calibri"
-                android:hint="..."
-                android:inputType="textNoSuggestions"
-                android:padding="12dp"
-                android:textColor="@color/colorPrimary"
-                android:textSize="14sp"
-                android:textStyle="bold"
-                tools:text="new changes" />
+                android:layout_height="match_parent"/>
 
         </androidx.cardview.widget.CardView>
 
@@ -118,7 +94,7 @@
             android:layout_marginTop="24dp"
             android:fontFamily="@font/calibri"
             android:text="Usage"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/black"
             android:textSize="18dp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
