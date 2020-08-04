@@ -64,7 +64,8 @@
             <Spinner
                 android:id="@+id/spinner1"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                />
 
         </androidx.cardview.widget.CardView>
 
@@ -149,7 +150,7 @@
             android:layout_marginTop="16dp"
             android:fontFamily="@font/calibri"
             android:text="Note"
-            android:textColor="@color/colorPrimary"
+            android:textColor="@color/black"
             android:textSize="18dp"
             android:textStyle="bold"
             android:visibility="gone"
