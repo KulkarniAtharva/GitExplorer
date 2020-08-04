@@ -1,8 +1,10 @@
-# GitExplorer
+# Git Explorer
 
+**Git Explorer** is a simple android application to search git command on one click. Dedicated to all Software Developers with ❤️.
 
-Git Explorer is a simple android application to search git command on one click. Dedicated to all Software Developers with ❤️.
+***You can Install and test latest app from below 👇***
 
+[![Git Explorer App](https://img.shields.io/badge/GitExplorer-APK-red.svg?style=for-the-badge&logo=android)]()
 
 ## About
 The app in itself is a simple git commands searching app. Selecting command from the dropdown list gives you the usage and short description of that command.
@@ -17,9 +19,9 @@ The app in itself is a simple git commands searching app. Selecting command from
 
 **Please click the image below to enlarge.**
 
+<img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer1.jpg" height="600" width="300" hspace="40"><img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer2.jpg" height="600" width="300" hspace="40">
 
-
-
+<img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer3.jpg" height="600" width="300" hspace="40"><img src="https://github.com/KulkarniAtharva/GitExplorer/blob/master/Screenshots/gitexplorer4.jpg" height="600" width="300" hspace="40">
 
 
 ## Inspiration
@@ -31,7 +33,7 @@ This project is inspired from GitExplorer ~ Thanks to them.
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/GitExplorer-Android/pulls).
+[pull requests](https://github.com/KulkarniAtharva/GitExplorer/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
@@ -49,7 +51,6 @@ Don't forget to star ⭐ the repo it motivates me to share more open source
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-<a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## License
 
